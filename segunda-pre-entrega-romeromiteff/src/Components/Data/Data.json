@@ -1,63 +1,63 @@
 [
     {
        "id":1,
-       "titulo": "El cerebro y la inteligencia emocional",
-       "categoria": "Bienestar",
-       "precio": 10100,
-       "stock": 300,
-       "autor": "Daniel Goleman",
+       "titulo": "Excavadora R180LC-9",
+       "categoria": "Nuevos",
+       "precio": 70000 ,
+       "stock": 25,
+       "marca": "Hyundai",
        "imagen":
-         "https://tvandshow.files.wordpress.com/2016/08/5189f3286915715b50cff89ddded1008_s.jpg?w=200."
+         "https://mercadovial.com/ar/wp-content/uploads/sites/7/job-manager-uploads/gallery_images/2018/04/R160-1.jpg"
      }, 
    
        {
          "id":2,
-         "titulo": "Mujercitas",
-         "categoria": "Clasicos",
-         "precio": 26700,
-         "stock": 52,
-         "autor": "Louisa May Alcott",
+         "titulo": "Pala y retroexcavadora H930/940C 4X4",
+         "categoria": "Nuevos",
+         "precio": 88000,
+         "stock": 20,
+         "marca": "Hyundai",
          "imagen":
-           "https://images.cdn2.buscalibre.com/fit-in/360x360/4f/d2/4fd231d86c39e5eea08a956eea83b08b.jpg"
+           "https://imgv2-1-f.scribdassets.com/img/document/354539630/original/0556716da2/1696513771?v=1"
        },
        {
          "id": 3,
-         "titulo":"Anna Karenina",
-         "categoria": "Clasicos",
-         "precio": 23000,
+         "titulo":"Motoniveladora HG220",
+         "categoria": "Nuevos",
+         "precio": 120000,
          "stock": 15,
-         "autor": "Lev Tolstói",
+         "marca": "Hyundai",
          "imagen":
-           "https://images.cdn3.buscalibre.com/fit-in/360x360/42/be/42be3fae8b5074daefa9717ba1d3f983.jpg"
+           "https://amigocamionero.com.py/wp-content/uploads/2020/09/%EB%82%B4%EC%A7%80_5-6_main.jpg"
        },
        {
          "id": 4,
-         "titulo": "Ana de las tejas verdes",
-         "categoria": "Clasicos",
-         "precio": 6290,
-         "stock": 15,
-         "autor": "Lucy Maud Montgomery",
+         "titulo": "Pala Cargadora 644K",
+         "categoria": "Usados",
+         "precio": 50000,
+         "stock": 10,
+         "marca": "John Deere",
          "imagen":
-           "https://contentv2.tap-commerce.com/cover/large/9789878120409_1.jpg?id_com=1156"
+           "https://anltup4an.cloudimg.io/height/800/x/https://kitmondo-images.s3.amazonaws.com/SiteImages/Images/Listing/2021/8/ee370a81-c40d-45de-b2bf-825515cf4b87_692ocXR.jpg"
        },
        {
          "id": 5,
-         "titulo": "Harry Potter y el prisionero de Azkaban",
-         "categoria": "Fantasia",
-         "precio": 22090,
-         "stock": 15,
-         "autor": "J.K Rowling",
+         "titulo": "Excavadora Hidráulica PC200",
+         "categoria": "Usados",
+         "precio": 60000,
+         "stock": 10,
+         "marca": "Komatsu",
          "imagen":
-           "https://images.cdn1.buscalibre.com/fit-in/360x360/1a/31/1a3145c3ba83287fabdb65514b893cf6.jpg"
+           "https://mercadovial.com/ar/wp-content/uploads/sites/7/2023/03/komatsu11-copia.jpg"
        },
        {
          "id": 6,
-         "titulo": " El hombre en búsqueda del sentido",
-         "categoria": "Bienestar",
-         "precio": 8150,
+         "titulo": "Motoniveladora 140K",
+         "categoria": "Usados",
+         "precio": 86000,
          "stock": 10,
-         "autor": "Viktor Frankl",
+         "marca": "Caterpillar",
          "imagen":
-           "https://librosobrelibro.com/wp-content/uploads/2021/01/el-hombre-en-busca-de-sentido-tapa-dura.jpg"
+           "https://machineryline.com.ar/img/s/maquinaria-de-construccion-motoniveladora-Caterpillar-140K---1630312941053017233_big--21083011174099905600.jpg"
        }
      ]

@@ -21,7 +21,7 @@ const ItemDetail = ({ item }) => {
         <img src={item.imagen} alt="{item.img}" />
         <div>
           <h3 className="titulo">{item.titulo}</h3>
-          <p className="autor">{item.autor}</p>
+          <p className="marca">{item.marca}</p>
           <p className="categoria">{item.categoria}</p>
           <p className="precio">$ {item.precio}</p>
           <ItemCount

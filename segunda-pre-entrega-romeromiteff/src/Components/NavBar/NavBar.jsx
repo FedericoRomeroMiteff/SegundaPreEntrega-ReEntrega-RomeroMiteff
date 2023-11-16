@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <Link to="/" className="logo">
-        <img src="../media/img/logo.png" width={100} height={100}></img>
+        <img src="../media/maqvial.png" width={100} height={100}></img>
       </Link>
       <ul className="menu">
         <li>
@@ -14,18 +14,16 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/envio">
-            Envios
-          </Link>
+          <Link className="menu-link" to="/trayectoria">Trayectoria</Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Bienestar">Bienestar</Link>
+          <Link className="menu-link" to="/productos/Nuevos">Nuevos</Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Fantasia">Fantasia</Link>
+          <Link className="menu-link" to="/productos/Usados">Usados</Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Clasicos">Clasicos</Link>
+          <Link className="menu-link" to="/productos/Clasicos"></Link>
         </li>
         <Link className="menu-link" to="/cart">
           <CartWidget />
@@ -36,3 +34,4 @@ const Navbar = () => {
 };
 
 export default Navbar
+

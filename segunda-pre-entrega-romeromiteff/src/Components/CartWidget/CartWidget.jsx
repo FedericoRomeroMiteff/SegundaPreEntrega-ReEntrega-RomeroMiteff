@@ -10,7 +10,7 @@ const CartWidget = () => {
     <div>
       <Link to="/carrito">
       <div>
-      1 🛒  
+       🛒  
       </div>
         <span> {cantidadEnCarrito()}</span>
       </Link>

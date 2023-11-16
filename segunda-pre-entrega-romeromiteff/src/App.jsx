@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Envios from "../src/Components/Envios/Envios";
+import Trayectoria from "./Components/Trayectoria/Trayectoria";
 import Navbar from "../src/Components/Navbar/Navbar";
 import ItemListContainer from "../src/Components/ItemListContainer/ItemListContainer";
 import ItemDetailContainer from "../src/Components/ItemDetailContainer/ItemDetailContainer";
@@ -19,7 +19,7 @@ function App() {
           <Route path="/" element={<ItemListContainer />} />
           <Route path="item/:id" element={<ItemDetailContainer />} />
           <Route path="/productos/:categoria" element={<ItemListContainer />} />
-          <Route path="/envio" element={<Envios />} />
+          <Route path="/trayectoria" element={<Trayectoria />} />
           <Route path="/cart" element={<CartWidget />} />
           <Route path="/carrito" element={<Carrito />} />
         </Routes>
