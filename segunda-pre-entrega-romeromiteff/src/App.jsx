@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Envios from "../src/Components/Envios/Envios";
-import Navbar from "../src/Components/NavBar/NavBar";
+import Navbar from "../src/Components/Navbar/Navbar";
 import ItemListContainer from "../src/Components/ItemListContainer/ItemListContainer";
 import ItemDetailContainer from "../src/Components/ItemDetailContainer/ItemDetailContainer";
 import CartWidget from "../src/Components/CartWidget/CartWidget";
