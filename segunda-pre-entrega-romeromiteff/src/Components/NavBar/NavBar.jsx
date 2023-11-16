@@ -22,9 +22,6 @@ const Navbar = () => {
         <li>
           <Link className="menu-link" to="/productos/Usados">Usados</Link>
         </li>
-        <li>
-          <Link className="menu-link" to="/productos/Clasicos"></Link>
-        </li>
         <Link className="menu-link" to="/cart">
           <CartWidget />
         </Link>
