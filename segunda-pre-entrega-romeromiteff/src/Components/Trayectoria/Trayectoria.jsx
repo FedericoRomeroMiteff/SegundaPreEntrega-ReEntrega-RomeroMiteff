@@ -2,7 +2,7 @@ const Trayectoria = () => {
   return (
     <div className='trayectoria-div' >
         <h2 className='trayectoria'>
-        ¡Trayectoria, compromiso y excelencia!
+        Trayectoria, compromiso y excelencia
         </h2>
 <ul className='item-trayectoria'>
     <li> 
@@ -17,11 +17,11 @@ const Trayectoria = () => {
         Una vez más seguimos demostrando que nuestro servicio de post-venta es una de las más relevantes prioridades, porque un cliente satisfecho es nuestra mejor carta de presentación</p>
         </li>
     <li>
-        <h3 className='trayectoria-card'>Restricciones y regulaciones aduaneras:</h3>
+        <h3 className='trayectoria-card'>Impuestos y regulaciones aduaneras</h3>
         <p className='txt-trayectoria'>Normalmente nuestros equipos llevan en su precio la contemplación de impuestos de importación,tienen aranceles aduaneros respectivos de cada país.</p>
         </li>
     <li> 
-        <h3 className='trayectoria-card'>Seguridad del envío:</h3>
+        <h3 className='trayectoria-card'>Importaciones</h3>
         <p className='txt-trayectoria'>Las marcas con las que trabajamos son reconocidas mundialmente para envíos de maquinaria pesada internacionales. Depositamos en ellos nuestra confianza hace más de 12 años para la entrega.</p>
         </li>
 </ul>
