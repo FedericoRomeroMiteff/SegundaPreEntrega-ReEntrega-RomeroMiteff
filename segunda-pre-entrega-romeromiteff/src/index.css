@@ -54,7 +54,150 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+.col-6 {
+  flex: 0 0 auto;
+  width: 370px;
+}
+.navbar-expand-xl {
+  background-color: rgba(127, 255, 249, 0.781);
+}
+.img-card {
+  width: 300px;
+  height: 400px;
+}
+.card-title {
+  color: rgb(62, 0, 0);
+}
+.productos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding-block: 2rem;
+}
+.ver-mas {
+  text-decoration: none;
+  background-color: rgb(0, 179, 255);
+  color: white;
+  padding: 0.5rem;
 
+  border-radius: 0.5rem;
+  transition: 0.2s;
+  text-align: center;
+}
+
+.ver-mas:hover {
+  background-color: rgb(2, 2, 47);
+  color: white;
+}
+
+.carrito {
+  width: 50px;
+}
+
+.nombre,
+.autor,
+.precio,
+.cat {
+  text-align: center;
+  margin-left: 20px;
+}
+.nombre {
+  font-size: 23px;
+  font-weight: 500;
+  padding-top: 30px;
+}
+.autor {
+  font-size: 22px;
+  font-weight: 600;
+  color: chocolate;
+}
+.cat {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: 1rem;
+}
+.precio {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+  color: rgb(202, 6, 6);
+}
+.producto-detalle {
+  padding-block: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+}
+
+.producto-detalle img {
+  width: 350px;
+  height: 500px;
+}
+.producto-detalle-name {
+  font-size: 100px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #b6b9f3;
+}
+
+.menu {
+  padding-right: 18px;
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
+  align-items: baseline;
+}
+
+.menu.ul {
+  margin-top: 0;
+}
+.menu-link {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.menu-link:hover {
+  text-decoration: underline;
+}
+.envio-div {
+  background-color: #dedef6;
+}
+.item-envio {
+  list-style: none;
+}
+.envios {
+  font-size: 35px;
+  padding: 5px;
+}
+.envio-card {
+  font-size: 25px;
+  padding: 10px;
+  text-decoration: underline;
+  text-align: left;
+}
+.txt-envio {
+  text-align: left;
+}
+.btn-carro{
+  background-color:rgb(200, 159, 239);
+  
+}
+.btn-comprar{
+  margin-top: 25px;
+  background-color: #646cff; 
+}
+.btn-vaciar{
+  background-color: rgb(7, 0, 139);
+  
+}
+.precio-total{
+  color: crimson;
+}
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
