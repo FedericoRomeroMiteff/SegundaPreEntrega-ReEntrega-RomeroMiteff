@@ -15,7 +15,7 @@ export const pedirItemPorId = (id) => {
       resolve(item);
     } else {
       reject({
-        error: "No se ha encontrado el producto",
+        error: "No se ha encontrado el equipo",
       });
     }
   });
