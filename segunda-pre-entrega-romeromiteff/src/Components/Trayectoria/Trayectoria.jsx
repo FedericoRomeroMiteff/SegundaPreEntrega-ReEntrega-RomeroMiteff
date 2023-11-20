@@ -12,7 +12,7 @@ const Trayectoria = () => {
         </li>
     <li> 
         <h3 className='trayectoria-card'>Tecnología Internacional</h3>
-        <p className='txt-trayectoria'>HYUNDAI, JOHN DEERE, CATERPILLAR, KOMATSU son marcas mundialmente reconocidas y comercializadas por Maquinas Viales y Camiones Daniel Romero. Estas Empresas están respaldadas por un importante servicio de atención y depósito, en nuestras oficinas, situadas en Ruta Panamericana , en la localidad de Don Torcuato, Provincia de Buenos Aires.
+        <p className='txt-trayectoria'>HYUNDAI, JOHN DEERE, CATERPILLAR, KOMATSU son marcas mundialmente reconocidas y comercializadas por Máquinas Viales Daniel Romero. Estas Empresas están respaldadas por un importante servicio de atención y depósito, en nuestras oficinas, situadas en Ruta Panamericana , en la localidad de Don Torcuato, Provincia de Buenos Aires.
         Esto nos permite colocar a nuestros clientes en primer lugar, poniendo a su disposición un equipo de profesionales capacitados y especialmente entrenados para dar una pronta y eficaz respuesta a cada una de sus demandas.
         Una vez más seguimos demostrando que nuestro servicio de post-venta es una de las más relevantes prioridades, porque un cliente satisfecho es nuestra mejor carta de presentación</p>
         </li>
