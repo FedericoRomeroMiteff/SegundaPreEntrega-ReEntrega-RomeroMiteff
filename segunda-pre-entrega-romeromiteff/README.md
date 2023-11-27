@@ -7,15 +7,12 @@
 # Link Netlify: 
 
 
-| Librerias utilizadas                            
-| bootstrap 5.3.2                        | Framework de diseño|
-| firebase 10.6.0                        | Base de datos de Google |
-| react-icons 4.11.0                     |  |
-| react-router-dom 6.18.0                |Biblioteca de React |
-| react-bootstrap 2.9.1                  ||
-
-| react-hook-form 7.48.2                 | Biblioteca de React|
-
+# Librerias utilizadas                            
+1. bootstrap 5.3.2 
+2. firebase 10.6.0 
+3. react-router-dom 6.18.0 
+4. react-bootstrap 2.9.1       
+5. react-hook-form 7.48.2
 
 
 # FirebaseConfig
