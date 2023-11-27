@@ -12,7 +12,9 @@ const Item = ({ producto }) => {
           <p className="precio">${producto.precio}</p>
         </div>
         <div>
-          <Link to={`/item/${producto.id}`}className="ver-mas">Detalle</Link>
+          <Link to={`/item/${producto.id}`} className="ver-mas">
+            Detalle
+          </Link>
         </div>
       </div>
     </div>

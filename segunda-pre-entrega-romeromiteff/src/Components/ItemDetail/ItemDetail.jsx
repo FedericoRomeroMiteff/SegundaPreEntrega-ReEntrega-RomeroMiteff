@@ -4,7 +4,6 @@ import ItemCount from "../ItemCount/ItemCount";
 
 const ItemDetail = ({ item }) => {
   const { carrito, agregarAlCarrito } = useContext(CartContext);
-  console.log(carrito);
 
   const [cantidad, setCantidad] = useState(1);
 
@@ -15,6 +14,7 @@ const ItemDetail = ({ item }) => {
   const handleSumar = () => {
     cantidad < item.stock && setCantidad(cantidad + 1);
   };
+
   return (
     <div className="container">
       <div className="producto-detalle">

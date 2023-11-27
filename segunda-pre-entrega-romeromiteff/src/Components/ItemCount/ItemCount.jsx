@@ -1,14 +1,20 @@
 const ItemCount = ({ cantidad, handleRestar, handleSumar, handleAgregar }) => {
-    return (
+  return (
+    <div>
       <div>
-        <div>
-          <button onClick={handleRestar} className="btn-carro">-</button>
-          <p>{cantidad}</p>
-          <button onClick={handleSumar} className="btn-carro">+</button>
-        </div>
-        <button onClick={handleAgregar}className="btn-comprar">Agregar al carrito</button>
+        <button onClick={handleRestar} className="btn-carro">
+          -
+        </button>
+        <p>{cantidad}</p>
+        <button onClick={handleSumar} className="btn-carro">
+          +
+        </button>
       </div>
-    );
-  };
-  
-  export default ItemCount;
+      <button onClick={handleAgregar} className="btn-comprar">
+        Agregar al carrito
+      </button>
+    </div>
+  );
+};
+
+export default ItemCount;

@@ -14,13 +14,19 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/trayectoria">Trayectoria</Link>
+          <Link className="menu-link" to="/trayectoria">
+            Trayectoria
+          </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Nuevos">Nuevos</Link>
+          <Link className="menu-link" to="/productos/Nuevos">
+            Nuevos
+          </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Usados">Usados</Link>
+          <Link className="menu-link" to="/productos/Usados">
+            Usados
+          </Link>
         </li>
         <Link className="menu-link" to="/cart">
           <CartWidget />
@@ -30,4 +36,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar
+export default Navbar;
