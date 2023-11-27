@@ -59,3 +59,5 @@ export const FinalizarCompra = () => {
     </div>
   );
 };
+
+export default FinalizarCompra;
