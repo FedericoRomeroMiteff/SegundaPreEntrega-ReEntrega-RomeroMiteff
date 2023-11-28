@@ -4,7 +4,7 @@
  Comisión: 47255
  Profesor: Federico Osandón
 
-# Link Netlify: https://65640313d64029685781ab63--bright-genie-72934c.netlify.app/
+# Link Netlify: https://6565383e8f3814007b25d197--luminous-narwhal-60b080.netlify.app/
 
 
 # Librerias utilizadas                            
