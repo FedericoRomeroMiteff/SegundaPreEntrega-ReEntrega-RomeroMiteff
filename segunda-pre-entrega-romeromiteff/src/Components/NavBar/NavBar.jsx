@@ -1,5 +1,7 @@
 import CartWidget from "../CartWidget/CartWidget";
+import NavDropdown from "react-bootstrap/NavDropdown";
 import { Link } from "react-router-dom";
+import { categorias } from "../Categorias/Categorias";
 
 const Navbar = () => {
   return (
@@ -18,17 +20,18 @@ const Navbar = () => {
             Trayectoria
           </Link>
         </li>
-        <li>
-          <Link className="menu-link" to="/productos/Nuevos">
-            Nuevos
-          </Link>
-        </li>
-        <li>
-          <Link className="menu-link" to="/productos/Usados">
-            Usados
-          </Link>
-        </li>
-        <Link className="menu-link" to="/cart">
+        <NavDropdown title="Categorias" id="navbarScrollingDropdown">
+          {categorias.map((category) => (
+            <Link
+              key={category.id}
+              className="dropdown-item"
+              to={`/productos/${category.category}`}
+            >
+              {category.name}
+            </Link>
+          ))}
+        </NavDropdown>
+        <Link className="menu-link" to="/carrito">
           <CartWidget />
         </Link>
       </ul>

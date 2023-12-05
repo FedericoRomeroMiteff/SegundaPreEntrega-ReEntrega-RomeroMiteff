@@ -6,7 +6,7 @@
        "precio": 70000 ,
        "stock": 25,
        "marca": "Hyundai",
-       "imagen":
+       "imageUrl":
          "https://mercadovial.com/ar/wp-content/uploads/sites/7/job-manager-uploads/gallery_images/2018/04/R160-1.jpg"
      }, 
    
@@ -17,7 +17,7 @@
          "precio": 88000,
          "stock": 20,
          "marca": "Hyundai",
-         "imagen":
+         "imageUrl":
            "https://imgv2-1-f.scribdassets.com/img/document/354539630/original/0556716da2/1696513771?v=1.jpg"
        },
        {
@@ -27,7 +27,7 @@
          "precio": 120000,
          "stock": 15,
          "marca": "Hyundai",
-         "imagen":
+         "imageUrl":
            "https://amigocamionero.com.py/wp-content/uploads/2020/09/%EB%82%B4%EC%A7%80_5-6_main.jpg"
        },
        {
@@ -37,7 +37,7 @@
          "precio": 50000,
          "stock": 10,
          "marca": "John Deere",
-         "imagen":
+         "imageUrl":
            "https://anltup4an.cloudimg.io/height/800/x/https://kitmondo-images.s3.amazonaws.com/SiteImages/Images/Listing/2021/8/ee370a81-c40d-45de-b2bf-825515cf4b87_692ocXR.jpg"
        },
        {
@@ -47,7 +47,7 @@
          "precio": 60000,
          "stock": 10,
          "marca": "Komatsu",
-         "imagen":
+         "imageUrl":
            "https://mercadovial.com/ar/wp-content/uploads/sites/7/2023/03/komatsu11-copia.jpg"
        },
        {
@@ -57,7 +57,7 @@
          "precio": 86000,
          "stock": 10,
          "marca": "Caterpillar",
-         "imagen":
+         "imageUrl":
            "https://machineryline.com.ar/img/s/maquinaria-de-construccion-motoniveladora-Caterpillar-140K---1630312941053017233_big--21083011174099905600.jpg"
        }
      ]
