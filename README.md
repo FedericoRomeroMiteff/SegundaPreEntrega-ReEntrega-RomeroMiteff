@@ -4,7 +4,7 @@
  Comisión: 47255
  Profesor: Federico Osandón
 
-# Link Netlify: https://6565383e8f3814007b25d197--luminous-narwhal-60b080.netlify.app/
+# Link Netlify: https://656fa94825a57c4e27e0bb6a--vocal-narwhal-bdf4b2.netlify.app/
 
 
 # Librerias utilizadas                            
