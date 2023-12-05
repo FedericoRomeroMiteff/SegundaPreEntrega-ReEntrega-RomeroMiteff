@@ -4,7 +4,7 @@
  Comisión: 47255
  Profesor: Federico Osandón
 
-# Link Netlify: https://6565383e8f3814007b25d197--luminous-narwhal-60b080.netlify.app/
+# Link Netlify: https://656fa94825a57c4e27e0bb6a--vocal-narwhal-bdf4b2.netlify.app/
 
 
 # Librerias utilizadas                            
@@ -14,26 +14,12 @@
 4. react-bootstrap 2.9.1       
 5. react-hook-form 7.48.2
 
-
-# FirebaseConfig
-
-  apiKey: "AIzaSyAiyezftPWYydxfa3VAsm6alBSWE858ImA",
-
-  authDomain: "maquinasvialesdr.firebaseapp.com",
-
-  projectId: "maquinasvialesdr",
-
-  storageBucket: "maquinasvialesdr.appspot.com",
-
-  messagingSenderId: "852614445099",
-
-  appId: "1:852614445099:web:41954c8d054521b492926e".
- 
-
-# ¿Qué hace mi aplicación?
-
-
-Ofrece un catálogo para la compra de maquinas viales nuevas o usadas de procedencia extranjera.
+# Descripción
+Se realizó una aplicación E-Commerce para el proyecto del curso React.
+El negocio que elegí es uno de compra y venta de maquinas viales como ejemplo.
+Máquinas Viales Daniel Romero se encarga de distribuir equipos, sean maquinaria vial, agrícola o camiones para la obra en el suelo argentino. 
+Ofrece un catálogo para la compra de equipos nuevos o usadas de procedencia extranjera.
+Al finalizar, devuelve un código de orden de compra.
 
 
 # React + Vite
