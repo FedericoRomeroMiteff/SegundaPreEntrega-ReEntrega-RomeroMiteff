@@ -4,7 +4,7 @@
  Comisión: 47255
  Profesor: Federico Osandón
 
-# Link Netlify: https://656fa94825a57c4e27e0bb6a--vocal-narwhal-bdf4b2.netlify.app/
+# Link Netlify: https://maquinasvialesdanielromero.netlify.app/
 
 
 # Librerias utilizadas                            
